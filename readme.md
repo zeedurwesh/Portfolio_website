@@ -3,5 +3,14 @@ This repository contains same material as website-project repository. The reason
 You can see all the commits done in Website-project repository.
 
 ## Wire frame pics
+Wire frame desktop pic part 1
 ![wireframe_desktop1](../master/img/wireframe_desktop_1.jpg)
 
+Wire frame desktop pic part 2
+![wireframe_desktop2](../master/img/wireframe_desktop_2.jpg)
+
+Wire frame phone pic part 1
+![wireframe_phone1](../master/img/wireframe_phone_1.jpg)
+
+Wire frame phone pic part 2
+![wireframe_phone2](../master/img/wireframe_phone_2.jpg)
